@@ -54,3 +54,17 @@
     color: royalblue;
    font-size: 40px;
 }
+.container{
+    width: 200px;
+    height: 200px;
+ 
+    border: 5px solid rgb(161, 104, 19);
+}
+.container{
+    background-color: cyan;
+}
+.inner{
+    background-color: cornsilk;
+    transform:translate(10,30)  scale(.78) rotate(45deg);
+    
+}
