@@ -45,3 +45,8 @@
     overflow: hidden;
     text-overflow: ellipsis;
 }
+.crush{
+    height: 40%;
+    width: 40%;
+
+}
